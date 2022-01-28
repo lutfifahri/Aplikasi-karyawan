@@ -1,0 +1,9 @@
+RewriteEngine on  
+
+RewriteRule ^index index.php [NC,L]
+RewriteRule ^akun akun.php [NC,L]
+RewriteRule ^data-baru data-baru.php [NC,L]
+RewriteRule ^nilai-baru nilai-baru.php [NC,L]
+RewriteRule ^out logout.php [NC,L]
+RewriteRule ^penerimaan penerimaan.php [NC,L]
+RewriteRule ^persyaratan persyaratan.php [NC,L]
