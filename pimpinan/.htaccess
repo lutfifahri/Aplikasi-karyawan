@@ -1,0 +1,4 @@
+RewriteEngine on  
+
+RewriteRule ^index index.php [NC,L]
+RewriteRule ^pendaftaran pendaftaran.php [NC,L]
