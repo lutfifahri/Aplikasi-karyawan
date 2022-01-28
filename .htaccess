@@ -1,0 +1,7 @@
+RewriteEngine on  
+
+RewriteRule ^index index.php [NC,L]
+RewriteRule ^pendaftaran pendaftaran.php [NC,L]
+RewriteRule ^pengumuman pengumuman.php [NC,L]
+RewriteRule ^login login.php [NC,L]
+RewriteRule ^admin login.php [NC,L]
