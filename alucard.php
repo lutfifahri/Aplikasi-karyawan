@@ -1,0 +1,1 @@
+<p>ini file alucard</p>
